@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Java web
 - 💞️ I’m looking to collaborate on derder
 - 📫 How to reach me ? mrxiaodfeng@163.com
-个人博客
-https://fengzhengx.cn/
+- 🙅‍♀️ blog https://fengzhengx.cn/
 
